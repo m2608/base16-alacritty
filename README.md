@@ -2,7 +2,7 @@
 
 [Base16](http://chriskempson.com/projects/base16/) themes template for [alacritty](https://github.com/alacritty/alacritty).
 
-You could also try [this](https://github.com/aarowill/base16-alacritty) this template. For my taste colors there are a little bit off.
+You could also try [this](https://github.com/aarowill/base16-alacritty) template. For my taste colors there are a little bit off.
 
 ## How to use
 
